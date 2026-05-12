@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ckr8D1RLGi24KTohKHf3bKE+b6xU14j4O0jKXrCVZ7NaUQqJ9W4pHNINCcDoGEqNmHvHYzW3NawlkaePPNNgBw==",
+  "success": true,
+  "projectFilePath": "/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/WinDeployTool.Core.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/serilog/4.3.1/serilog.4.3.1.nupkg.sha512",
+    "/root/.nuget/packages/serilog.enrichers.environment/3.0.1/serilog.enrichers.environment.3.0.1.nupkg.sha512",
+    "/root/.nuget/packages/serilog.sinks.console/6.1.1/serilog.sinks.console.6.1.1.nupkg.sha512",
+    "/root/.nuget/packages/serilog.sinks.file/7.0.0/serilog.sinks.file.7.0.0.nupkg.sha512",
+    "/root/.nuget/packages/system.codedom/8.0.0/system.codedom.8.0.0.nupkg.sha512",
+    "/root/.nuget/packages/system.management/8.0.0/system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

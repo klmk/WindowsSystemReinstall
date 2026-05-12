@@ -1,0 +1,13 @@
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/WinDeployTool.Core.csproj.AssemblyReference.cache
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/WinDeployTool.Core.GeneratedMSBuildEditorConfig.editorconfig
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/WinDeployTool.Core.AssemblyInfoInputs.cache
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/WinDeployTool.Core.AssemblyInfo.cs
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/WinDeployTool.Core.csproj.CoreCompileInputs.cache
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/WinDeployTool.Core.sourcelink.json
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/bin/Debug/net8.0/WinDeployTool.Core.deps.json
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/bin/Debug/net8.0/WinDeployTool.Core.dll
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/bin/Debug/net8.0/WinDeployTool.Core.pdb
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/WinDeployTool.Core.dll
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/refint/WinDeployTool.Core.dll
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/WinDeployTool.Core.pdb
+/data/user/work/WindowsSystemReinstall2/src/WinDeployTool.Core/obj/Debug/net8.0/ref/WinDeployTool.Core.dll
